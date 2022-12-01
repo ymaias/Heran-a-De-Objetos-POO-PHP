@@ -1,0 +1,15 @@
+Exercício 03 - Herança - 01/12/2022 - SENAI
+
+Crie as seguintes classes para representar um banco: Cliente, PessoaFisica, PessoaJuridica.
+
+O banco suporte apenas duas categorias de clientes: pessoas físicas e jurídicas.
+
+Todo novo cliente deve informar: nome, telefone e endereço. Pessoas físicas devem informar CPF e pessoas jurídicas devem informar CNPJ.
+
+Em todas as contas os clientes podem depositar, sacar, transferir.
+
+Na categoria pessoa física é possível também realizar pix.
+
+Na categoria pessoa jurídica é possível emitir boletos.
+
+Use o princípio da herança para reutilizar código.
